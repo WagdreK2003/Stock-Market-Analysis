@@ -1,7 +1,6 @@
-pandas
-matplotlib
-seaborn
-scikit-learn
-streamlit
-altair==4.2.2
-streamlit==1.32.0
+Pandas==1.5.3
+Matplotlib==3.7.1
+Seaborn==0.12.2
+Scikit-learn==1.3.0
+Streamlit==1.32.0
+Altair==4.2.2
