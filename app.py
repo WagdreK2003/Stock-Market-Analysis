@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 st.title("📈 Stock Market Analysis Dashboard")
 
-folder_path = "D:\\DA\\PROJECTS\\Stock Market Analysis + Prediction\\Data"   # keep stocks folder in same directory
+folder_path = "Data"   # keep stocks folder in same directory
 
 # all_data = []
 
